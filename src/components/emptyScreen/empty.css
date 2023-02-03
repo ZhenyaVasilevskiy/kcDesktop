@@ -1,0 +1,22 @@
+.wrapper{
+    margin-left: 5%;
+    margin-top: 25px;
+    width: 120px; 
+    width: 22%;
+    height: 600px;
+    border-radius: 10px;
+    display: block;
+    background-color: white;
+    position: relative;
+}
+
+.startButton{
+    margin: 0 auto;
+    padding: 10px 70px;
+    margin: 0 auto;
+    margin-top: 160%;
+    padding: 15px 100px;
+    background: black;
+    border-radius: 7px;
+    color: white;
+}
